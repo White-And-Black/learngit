@@ -1,6 +1,2 @@
-git is a distribute version control system.
-git is free software.
-i add one news.
-change something.
-two change.
-three change.
+git is a distributed version control system.
+git is free software distributed under the GPL.
